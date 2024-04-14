@@ -7,7 +7,7 @@ I am Matteo from Germany 🍺
 
 ⚡ Fun fact: I am a mountainbiker and I ride a `Cube TWO 15 HPC SLT`, a `rose the bruce 2` and a `vpace moritz` and hopefully a `pivot freeride` soon 🚵🏻‍♂️ 
 
-👨🏻‍💻 I manly use: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg) ![MongoDB](https://img.shields.io/badge/MongoDB-055000?style=flat&logo=MongoDB&logoColor=green) ![MySQL](https://img.shields.io/badge/MySQL-FEFFFE?style=flat&logo=MySQL)
+👨🏻‍💻 I manly use: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg) ![MongoDB](https://img.shields.io/badge/MongoDB-055000?style=flat&logo=MongoDB&logoColor=green) ![MySQL](https://img.shields.io/badge/MySQL-FEFFFE?style=flat&logo=MySQL) 
 
 🧐 I´m currently learning SQL, HTML, CSS and JS.
 
