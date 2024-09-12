@@ -15,7 +15,7 @@ I am Matteo from Germany 🍺
 
 💬 I speek german, english, russian, java (in public 💀).
 
-📫 If you want to contact me just add me on discord [ufo.dev] or mail me (why would you do that? 💀) with support@ufomc.net.
+📫 If you want to contact me just add me on discord [ufo.dev] or mail me (why would you do that? 💀) with `info@ufomc.de`.
 
 
 Please contact me if you have questions or just want to tell me anything 👋🏻
