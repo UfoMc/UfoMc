@@ -3,9 +3,9 @@
 I am Matteo from Germany 🍺
 
 
-✍🏻 Currently I am coding some stuff like ud (https://github.com/UfoMc/ud-file-configuration) and a web server.
+✍🏻 Currently I am working on my own software company ([https://github.com/](https://github.com/utecx-development/webserver)).
 
-⚡ Fun fact: I am a mountainbiker and I ride a `Cube TWO 15 HPC SLT`, a `rose the bruce 2` and a `vpace moritz` and hopefully a `pivot firebird` soon 🚵🏻‍♂️ 
+⚡ Fun fact: I am a mountainbiker and I ride a `Cube TWO 15 HPC SLT`, a `rose the bruce 2` and a `Radon swoop`🚵🏻‍♂️ 
 
 👨🏻‍💻 I mainly use: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg) ![MongoDB](https://img.shields.io/badge/MongoDB-055000?style=flat&logo=MongoDB&logoColor=green) ![MySQL](https://img.shields.io/badge/MySQL-FEFFFE?style=flat&logo=MySQL) 
 
