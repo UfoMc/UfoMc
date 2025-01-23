@@ -3,7 +3,7 @@
 I am Matteo from Germany 🍺
 
 
-✍🏻 Currently I am working on my own software company ([https://github.com/](https://github.com/utecx-development/webserver)).
+✍🏻 Currently I am working on my own software company ([https://github.com/](https://github.com/utecx-development/)).
 
 ⚡ Fun fact: I am a mountainbiker and I ride a `Cube TWO 15 HPC SLT`, a `rose the bruce 2` and a `Radon swoop`🚵🏻‍♂️ 
 
