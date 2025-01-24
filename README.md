@@ -8,6 +8,7 @@ I am Matteo from Germany 🍺
 ⚡ Fun fact: I am a mountainbiker and I ride a `Cube TWO 15 HPC SLT`, a `rose the bruce 2` and a `Radon swoop`🚵🏻‍♂️ 
 
 👨🏻‍💻 I mainly use: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg) 
+
 🧐 I´m currently learning SQL, HTML, CSS and JS.
 
 🎂 My bday is the 21th of june.
