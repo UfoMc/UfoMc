@@ -1,6 +1,6 @@
 ### System.out.println("Hello world");
 
-I am Matteo from Germany 🍺
+#I am Matteo from Germany 🍺
 
 
 ✍🏻 Currently I am working on my own software company ([https://github.com/](https://github.com/utecx-development/)).
@@ -9,11 +9,11 @@ I am Matteo from Germany 🍺
 
 👨🏻‍💻 I mainly use: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg) 
 
-🧐 I´m currently learning SQL, HTML, CSS and JS.
+🧐 I´m currently learning HTML, CSS and JS.
 
 🎂 My bday is the 21th of june.
 
-💬 I speek german, english, russian, java (in public 💀).
+💬 I speek german, english and a little russian.
 
 📫 If you want to contact me just add me on discord [ufo.dev].
 
